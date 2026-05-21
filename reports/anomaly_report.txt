@@ -1,0 +1,6 @@
+ANOMALY REPORT — 2026-05-21 16:38
+Mean fraud rate: 0.57%
+Std: 0.87%
+
+🟡 WARNING | Giờ 22:00 — Fraud rate 2.88% (Z-score: 2.65) — Cao hơn trung bình 5.1x
+🟡 WARNING | Giờ 23:00 — Fraud rate 2.84% (Z-score: 2.6) — Cao hơn trung bình 5.0x

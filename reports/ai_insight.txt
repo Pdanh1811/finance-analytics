@@ -1,0 +1,7 @@
+Báo cáo Rủi Ro Tài Chính:
+
+Tổng quan, trong kỳ báo cáo vừa qua, ngân hàng chúng tôi đã ghi nhận tổng số giao dịch lên tới 1.296.675, với tỷ lệ lừa đảo (fraud rate) là 0,58%. Điều này cho thấy rằng mặc dù có một số vấn đề về lừa đảo, nhưng tỷ lệ này vẫn nằm trong mức kiểm soát.
+
+Về điểm rủi ro chính, chúng tôi nhận thấy rằng top 3 danh mục rủi ro cao nhất bao gồm mua sắm trực tuyến (shopping_net) với tỷ lệ lừa đảo 1,76%, tiếp theo là các giao dịch không rõ ràng (misc_net) với tỷ lệ 1,45% và cuối cùng là mua sắm trực tiếp tại cửa hàng (grocery_pos) với tỷ lệ 1,41%. Ngoài ra, chúng tôi cũng nhận thấy rằng các giờ nguy hiểm nhất trong ngày là 22h, 23h và 1h với tỷ lệ lừa đảo lần lượt là 2,88%, 2,84% và 1,53%.
+
+Để giảm thiểu rủi ro, chúng tôi khuyến nghị tăng cường giám sát các giao dịch trực tuyến và tại cửa hàng vào các giờ nguy hiểm, đặc biệt là vào ban đêm. Chúng tôi cũng khuyến nghị triển khai các biện pháp bảo mật thêm cho các danh mục rủi ro cao và cuối cùng, tăng cường đào tạo nhân viên để họ có thể nhận biết và ngăn chặn các giao dịch lừa đảo một cách hiệu quả.
